@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning B.Tech Chemical Technology at University of Calcutta
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me soujatya.sarkar2001@gmail.com
-- 💻 Projects Undegoing - Building <b>wayfle</b>.
+- 💻 Current Objective - Building <b>wayfle</b>.
 
 <!---
 souzatya/souzatya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
