@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @souzatya
-- 👀 I’m interested in tinkering with Softwares.
-- 🌱 I’m currently learning B.Tech Chemical Technology at University of Calcutta
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me soujatya.sarkar2001@gmail.com
-- 💻 Current Objective - Building <b>wayfle</b>.
+- 👀 I’m interested in producing innovative research.
+- 🌱 I’m currently pursuing B.Sc (Hons) Data Science & Artificial Intelligence at IIT Guwahati and M.Tech Polymer Science & Technology at University of Calcutta.
+- 💞️ I’m looking to collaborate on progressive research work in Neural Networks, Time series analysis, GANs, NLP, Computer Vision, Signal analysis and Deep learning.
+- 📫 Reach me at soujatya@ieee.org / soujatya.sarkar2001@gmail.com
+- 💻 Current Objective - Conducting research in the intersection of the domains of sleep sciences and AI.
 
 <!---
 souzatya/souzatya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
