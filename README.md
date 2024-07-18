@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing M.Tech (Research) Intelligent Systems at IIT Mandi and BSc. (Hons.) Data Science and AI at IIT Guwahati.
 - 💞️ I’m looking to collaborate on progressive research work in Neural Networks, Time series analysis, GANs, NLP, Computer Vision, Signal analysis and Deep learning.
 - 📫 Reach me at s23106@students.iitmandi.ac.in / soujatyasarkar@jcbose.ac.in / s.soujatya@op.iitg.ac.in / soujatya@ieee.org
-- 💻 Current Objective - Conducting research in neuromorphic computing and in the intersection of the domains of sleep sciences and AI.
+- 💻 Current Objective - Conducting research in Explainable Artificial Touch, human-robot interaction, robot-learning and computer vision.
 
 <!---
 souzatya/souzatya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
